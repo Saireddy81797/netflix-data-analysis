@@ -48,7 +48,7 @@ Build web app with Streamlit or Flask
 ![Top 10 Genres](Screenshot%20(446).png)
 
 ### 3. Year-wise Content Added
-![Year-wise Content](Screenshot%20(448).png)
+![Year-wise Content](Screenshot%20(447).png)
 
 ### 4. Top 10 Directors
 ![Top Directors](Screenshot%20(449).png)
