@@ -42,7 +42,7 @@ Build web app with Streamlit or Flask
 ## 📸 Visual Output
 
 ### 1. Movies vs TV Shows
-![Movies vs TV Shows](Screenshot%20(446).png)
+![Movies vs TV Shows](Screenshot%20(448).png)
 
 ### 2. Top 10 Genres
 ![Top 10 Genres](Screenshot%20(447).png)
