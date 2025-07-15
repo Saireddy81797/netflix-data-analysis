@@ -37,3 +37,28 @@ Build interactive dashboards (Tableau/Power BI)
 Use clustering and time series forecasting
 
 Build web app with Streamlit or Flask
+
+
+## 📸 Visual Output
+
+### 1. Movies vs TV Shows
+![Movies vs TV Shows](Screenshot%20(446).png)
+
+### 2. Top 10 Genres
+![Top 10 Genres](Screenshot%20(447).png)
+
+### 3. Year-wise Content Added
+![Year-wise Content](Screenshot%20(448).png)
+
+### 4. Top 10 Directors
+![Top Directors](Screenshot%20(449).png)
+
+### 5. Word Cloud of Titles
+![Word Cloud](Screenshot%20(450).png)
+
+### 6. Monthly Releases
+![Monthly Releases](Screenshot%20(451).png)
+
+### 7. Yearly Releases
+![Yearly Releases](Screenshot%20(452).png)
+
