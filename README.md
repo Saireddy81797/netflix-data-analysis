@@ -29,7 +29,11 @@ Analyze Netflix shows data using Python libraries like Pandas, Seaborn, Matplotl
 ## 📈 Visual Output
 All graphs are generated using Matplotlib and Seaborn, with pauses for each plot to allow full view.
 
-## 🚀 How to Run
-```bash
-pip install pandas matplotlib seaborn wordcloud
-python netflix_analysis.py
+🔮 Future Work
+Add ML-based recommendation engine
+
+Build interactive dashboards (Tableau/Power BI)
+
+Use clustering and time series forecasting
+
+Build web app with Streamlit or Flask
